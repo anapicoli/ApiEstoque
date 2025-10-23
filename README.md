@@ -1,4 +1,4 @@
-# 🧭 API de Gerenciamento de Estoque
+# 📦 API de Gerenciamento de Estoque
 
 Este projeto é uma **API RESTful** desenvolvida com **Spring Boot** para gerenciar o estoque de uma loja de eletrônicos, permitindo controlar produtos, categorias, fornecedores e movimentações de estoque (entradas e saídas).
 
